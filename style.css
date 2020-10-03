@@ -1,16 +1,6 @@
-
-/*Section Header */
-
-
-
-
-
-
-
-
-
-
-
+#aboutme {
+    margin-top: -40px;
+}
 
 /*Section About me */
 
@@ -21,4 +11,5 @@
 .intro{
     min-height: 470px;
 }
+
 
